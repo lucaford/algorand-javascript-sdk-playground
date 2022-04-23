@@ -54,6 +54,4 @@ yarn clean
 
 Luca Ford – [@lfordev](https://twitter.com/lfordev)
 
-Distributed under the XYZ license. See `LICENSE` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+Distributed under the MIT license.
