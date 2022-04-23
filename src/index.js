@@ -10,7 +10,7 @@ import {
   accountInformation,
   createNFT,
   createToken,
-} from "./algorandFunctions.js";
+} from "./functions.js";
 
 clear();
 
