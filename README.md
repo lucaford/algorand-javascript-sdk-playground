@@ -26,6 +26,16 @@ npm
 npm install
 ```
 
+## Pre-Requisites
+
+### Algorand Test Node w/Docker
+
+```sh
+git clone https://github.com/algorand/sandbox.git
+cd sandbox
+./sandbox up testnet
+```
+
 ## Usage
 
 ### Start project CLI
